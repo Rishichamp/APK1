@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APK1</string>
+     <string-array name="Operators">
+         <item>Square</item>
+         <item>Cube</item>
+         <item>SquareRoot</item>
+         <item>CubeRoot</item>
+     </string-array>
+</resources>
