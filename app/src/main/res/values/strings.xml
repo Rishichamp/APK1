@@ -6,4 +6,5 @@
          <item>SquareRoot</item>
          <item>CubeRoot</item>
      </string-array>
+    <string name="action_button">Calculate</string>
 </resources>
