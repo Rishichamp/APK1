@@ -13,6 +13,7 @@ The project is built using **Java and Android Studio** and demonstrates simple U
 This project was created as a learning exercise to understand how to build a simple **Android calculator application** and implement mathematical computations using Java.
 
 It demonstrates how to:
+
 - Take user input
 - Perform mathematical calculations like square,cube,square root,cube root
 - Display results in an Android interface
